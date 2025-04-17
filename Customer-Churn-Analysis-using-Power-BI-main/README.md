@@ -20,7 +20,7 @@
 1. Reduce customer loss: Identify and help customers at risk to keep them longer.
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
-![Customer Risk Analysis](DashBoard2.png)
+![Customer Risk Analysis](DashBoard.png)
 
 ## **Beyond the Dashboard: Communication for Impact**
 Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails,
