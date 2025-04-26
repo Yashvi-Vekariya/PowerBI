@@ -73,10 +73,10 @@ Below are the key screenshots from the dashboard:
 
 | Dashboard Pages |
 |:---------------:|
-| ![DASHBOARD](DASHBOARD1.png) |
-| ![DASHBOARD](DASHBOARD2.png) |
-| ![DASHBOARD](DASHBOARD3.png) |
-| ![DASHBOARD](DASHBOARD4.png) |
+| ![DASHBOARD](DashBoard1.png) |
+| ![DASHBOARD](DashBoard2.png) |
+| ![DASHBOARD](DashBoard3.png) |
+| ![DASHBOARD](DashBoard4.png) |
 
 ---
 
