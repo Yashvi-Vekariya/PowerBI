@@ -82,7 +82,7 @@ Below are the key screenshots from the dashboard:
 
 ## ⚙ Tech Stack Used
 
-- *Power BI* / *Tableau* / *Python (Plotly + Dash)* (based on project setup)
+- *Power BI*
 - *CSV Files* for Data Sources
 - *Data Cleaning* using Excel, SQL, or Python Pandas
 - *Business Metrics*: Penetration Rate, CAGR, Quarterly Growth Analysis
