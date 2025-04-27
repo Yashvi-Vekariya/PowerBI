@@ -4,7 +4,7 @@ Comprehensive global analysis of university success utilizing *Power BI, Excel, 
 
 
 ---
-![ranking_analysis](assets\overview.jpg)
+![ranking_analysis](assets/overview.jpg)
 
 ---
 
@@ -116,14 +116,14 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 ### *1. Country Analysis Dashboard:*
    - Visualizes ranking trends and metrics based on countries.
      
-  ![country_analysis](assets\country_analysis.jpg)
+  ![country_analysis](assets/country_analysis.jpg)
 
 ---
 
 ### *2. University Analysis Dashboard:*
    - Offers insights into individual university performance and metrics.
      
-![university_analysis](assets\university_analysis.jpg)
+![university_analysis](assets/university_analysis.jpg)
 
 
 ---
@@ -131,14 +131,14 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 ### *3. Ranking System Analysis Dashboard:*
    - Compares and contrasts rankings across different systems.
      
-![ranking_analysis](assets\ranking_analysis.jpg)
+![ranking_analysis](assets/ranking_analysis.jpg)
 
 ---
 
 ### *4. Yearly Analysis Dashboard:*
    - Examines temporal changes in university metrics and rankings.
      
-![yearly_analysis](assets\yearly_analysis.jpg)
+![yearly_analysis](assets/yearly_analysis.jpg)
 
 
 ---
